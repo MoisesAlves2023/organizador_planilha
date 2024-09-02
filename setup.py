@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="organizador_planilha",  # Nome do pacote
     version="0.2",  # Versão inicial
-    author="Seu Nome",
-    author_email="seu_email@example.com",
+    author="Moisés Alves",
+    author_email="moisesalvespc@gmail.com",
     description="Um pacote simples para buscar e organizar planilhas em um banco MYSQL",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
