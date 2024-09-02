@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="organizador_planilha",  # Nome do pacote
-    version="0.3",  # Versão inicial
+    version="0.4",
     author="Moisés Alves",
     author_email="moisesalvespc@gmail.com",
     description="Um pacote simples para buscar e organizar planilhas em um banco MYSQL",
