@@ -1,8 +1,8 @@
 # Organizador de Planilhas
 
-Este pacote organiza planilhas por uma coluna específica usando `pandas`. Suporta arquivos `.csv` e `.xlsx`.
+Este pacote busca e organiza planilhas de um banco mysql usando `pandas`. Suporta arquivos `.csv` e `.xlsx`.
 
-## Instalação
+## Instalacao
 
 Você pode instalar este pacote via pip:
 
